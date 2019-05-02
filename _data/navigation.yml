@@ -1,10 +1,10 @@
 - name: Forsíðan
-  link: /
+  link: /vefhonnun
 - name: Um mig
-  link: /ummig.html
+  link: /vefhonnun/ummig.html
 - name: Nýjustu fréttir
-  link: /pistlar.html
+  link: /vefhonnun/pistlar.html
 - name: Starfsfólk
-  link: /staff.html
+  link: /vefhonnun/staff.html
 - name: Form
-  link: /form.html
+  link: /vefhonnun/form.html
