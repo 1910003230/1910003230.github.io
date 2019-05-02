@@ -1,0 +1,10 @@
+- name: Forsíðan
+  link: /
+- name: Um mig
+  link: /ummig.html
+- name: Nýjustu fréttir
+  link: /pistlar.html
+- name: Starfsfólk
+  link: /staff.html
+- name: Form
+  link: /form.html

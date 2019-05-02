@@ -1,0 +1,19 @@
+body {
+	max-width: 40em; /*(800px - 1600px)*/
+	font-family: arial, helvetica, sans-serif;
+	margin: 0 auto;
+	padding: 1em;
+	color: black;
+	background:url("TMfyYt0.gif");
+}
+h1 {
+	color: black;
+}
+li,
+p {
+	color: white;
+	font-size: 2em;
+}
+.grunnur {
+	background-color: rgba(0,0,0, .6);
+	padding: 1em;
