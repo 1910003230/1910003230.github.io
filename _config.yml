@@ -1,5 +1,5 @@
 title: Step by step tutorial
-baseurl: ""
+baseurl: "/vefhonnun"
 url: "https://1910003230.github.io"
 
 collections:
@@ -8,16 +8,16 @@ collections:
 
 defaults:
   - scope:
-      path: "/"
+      path: "/vefhonnun"
       type: "authors"
     values:
       layout: "author"
   - scope:
-      path: "/"
+      path: "/vefhonnun"
       type: "posts"
     values:
       layout: "post"
   - scope:
-      path: "/"
+      path: "/vefhonnun"
     values:
       layout: "default"
